@@ -1,0 +1,6 @@
++   [Succinctly SASS Tabular 模块 BI 解决方案教程](README.md)
++   [一、微软商业智能栈介绍](1.md)
++   [二、使用 SSAS 表格实例开发数据模型](2.md)
++   [三、学习 DAX](3.md)
++   [四、为报告和部署准备数据模型](4.md)
++   [五、使用 Power View 探索数据模型](5.md)
